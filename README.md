@@ -12,6 +12,7 @@ Es el primer intento de crear una aplicación mobile por parte del equipo de fro
 ## Instalación de las herramientas
 
 Pasos para la instalación de todas las herramientas necesarias para comenzar a desarrollar:
+
 1. Instalar los SDK de los dispositivos para los que vayamos a desarrollar. Para este proyecto utilizaremos Android. Para lograrlo, hay que seguir estos pasos:
   1. Comprobar si cumple con los requisitos de sistema: [http://developer.android.com/sdk/index.html#Requirements](http://developer.android.com/sdk/index.html#Requirements)
   2. Descargar e instalar JDK desde [http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html) y reiniciar la máquina al finalizar.
